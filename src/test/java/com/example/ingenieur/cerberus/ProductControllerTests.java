@@ -1,4 +1,4 @@
-﻿package com.example.ingenieur.cerberus;
+package com.example.ingenieur.cerberus;
 
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.*;
